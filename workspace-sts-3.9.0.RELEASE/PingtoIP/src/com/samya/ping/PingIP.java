@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- * @author SG05477
+ * @author SGhosh
  *
  */
 public class PingIP {
